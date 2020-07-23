@@ -1,0 +1,1039 @@
+EESchema Schematic File Version 4
+EELAYER 29 0
+EELAYER END
+$Descr User 16953 13110
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	7400 4300 7400 4000
+Text Label 7400 4000 1    50   ~ 0
+USB0_N
+Wire Wire Line
+	7600 4300 7600 4000
+Text Label 7600 4000 1    50   ~ 0
+USB0_P
+Wire Wire Line
+	7200 7700 7200 8100
+Text Label 7200 8100 3    50   ~ 0
+GND
+Wire Wire Line
+	1800 2900 1600 2900
+Wire Wire Line
+	1600 2900 1600 3100
+Text Label 1800 2900 0    10   ~ 0
+GND
+Wire Wire Line
+	2100 10300 1500 10300
+Text Label 2100 10300 0    10   ~ 0
+GND
+Wire Wire Line
+	1600 9800 1400 9800
+Text Label 1600 9800 0    10   ~ 0
+GND
+Wire Wire Line
+	2100 9300 1500 9300
+Text Label 2100 9300 0    10   ~ 0
+GND
+Wire Wire Line
+	14500 10300 13900 10300
+Text Label 14500 10300 0    10   ~ 0
+GND
+Wire Wire Line
+	14000 9800 13800 9800
+Text Label 14000 9800 0    10   ~ 0
+GND
+Wire Wire Line
+	14500 9400 13900 9400
+Text Label 14500 9400 0    10   ~ 0
+GND
+Wire Wire Line
+	15100 9800 15000 9800
+Wire Wire Line
+	15000 9800 15000 9900
+Text Label 15100 9800 0    10   ~ 0
+GND
+Wire Wire Line
+	2700 9800 2600 9800
+Wire Wire Line
+	2600 9800 2600 9900
+Text Label 2700 9800 0    10   ~ 0
+GND
+Wire Wire Line
+	9200 11500 9300 11500
+Text Label 9200 11500 0    10   ~ 0
+GND
+Wire Wire Line
+	7000 11500 6900 11500
+Text Label 7000 11500 0    10   ~ 0
+GND
+Wire Wire Line
+	1600 4800 1500 4800
+Text Label 1600 4800 0    10   ~ 0
+GND
+Wire Wire Line
+	2100 6900 2000 6900
+Wire Wire Line
+	2000 6900 2000 7000
+Wire Wire Line
+	2000 7000 2100 7000
+Wire Wire Line
+	2000 7000 2000 7100
+Wire Wire Line
+	2000 7100 2100 7100
+Wire Wire Line
+	2000 7100 2000 7200
+Wire Wire Line
+	2000 7200 2100 7200
+Connection ~ 2000 7000
+Connection ~ 2000 7100
+Text Label 2100 6900 0    10   ~ 0
+GND
+Wire Wire Line
+	2100 6600 2000 6600
+Text Label 2100 6600 0    10   ~ 0
+GND
+Wire Wire Line
+	2100 5900 2000 5900
+Text Label 2100 5900 0    10   ~ 0
+GND
+Wire Wire Line
+	7000 5500 6600 5500
+Text Label 6600 5500 2    50   ~ 0
+GND
+Wire Wire Line
+	7000 4500 6600 4500
+Text Label 6600 4500 2    50   ~ 0
+GND
+Wire Wire Line
+	9800 4500 10200 4500
+Text Label 10200 4500 0    50   ~ 0
+GND
+Wire Wire Line
+	13950 2800 13950 2900
+Wire Wire Line
+	13950 2800 14050 2800
+Text Label 13950 2800 0    10   ~ 0
+GND
+Wire Wire Line
+	7000 5700 6600 5700
+Text Label 6600 5700 2    50   ~ 0
+GND
+Wire Wire Line
+	13600 5700 13500 5700
+Wire Wire Line
+	13500 5700 13500 5800
+Wire Wire Line
+	13500 5800 13500 5900
+Wire Wire Line
+	13500 5900 13500 6000
+Wire Wire Line
+	13600 5800 13500 5800
+Wire Wire Line
+	13600 5900 13500 5900
+Connection ~ 13500 5800
+Connection ~ 13500 5900
+Text Label 13600 5700 0    10   ~ 0
+GND
+Wire Wire Line
+	14600 7200 14700 7200
+Wire Wire Line
+	14700 7200 14700 7700
+Wire Wire Line
+	14900 7700 14700 7700
+Wire Wire Line
+	14700 7700 14700 7800
+Connection ~ 14700 7700
+Text Label 14600 7200 0    10   ~ 0
+GND
+Wire Wire Line
+	14250 3000 14250 3500
+Wire Wire Line
+	14250 3500 15200 3500
+Text Label 14250 3000 0    10   ~ 0
+GND
+Wire Wire Line
+	7400 7700 7400 8100
+Text Label 7400 8100 3    50   ~ 0
+HPL
+Wire Wire Line
+	15200 3300 14750 3300
+Text Label 14750 3300 2    50   ~ 0
+HPL
+Wire Wire Line
+	7800 7700 7800 8100
+Text Label 7800 8100 3    50   ~ 0
+HPR
+Wire Wire Line
+	15200 3400 14750 3400
+Text Label 14750 3400 2    50   ~ 0
+HPR
+Wire Wire Line
+	7600 7700 7600 8100
+Text Label 7600 8100 3    50   ~ 0
+HPCOM
+Wire Wire Line
+	14450 2800 14550 2800
+Text Label 14550 2800 0    50   ~ 0
+HPCOM
+Wire Wire Line
+	9200 7700 9200 8100
+Text Label 9200 8100 3    50   ~ 0
+MICIN1
+Wire Wire Line
+	7000 7500 6600 7500
+Text Label 6600 7500 2    50   ~ 0
+UART2-RTS
+Wire Wire Line
+	7000 7300 6600 7300
+Text Label 6600 7300 2    50   ~ 0
+UART2-CTS
+Wire Wire Line
+	7000 7100 6600 7100
+Text Label 6600 7100 2    50   ~ 0
+UART2-RX
+Wire Wire Line
+	7000 6900 6600 6900
+Text Label 6600 6900 2    50   ~ 0
+UART2-TX
+Wire Wire Line
+	7000 6700 6600 6700
+Text Label 6600 6700 2    50   ~ 0
+TWI1-SCK
+Wire Wire Line
+	13600 5400 13500 5400
+Text Label 13500 5400 2    50   ~ 0
+TWI1-SCK
+Wire Wire Line
+	7000 6500 6600 6500
+Text Label 6600 6500 2    50   ~ 0
+TWI1-SDA
+Wire Wire Line
+	13600 5500 13500 5500
+Text Label 13500 5500 2    50   ~ 0
+TWI1-SDA
+Wire Wire Line
+	7000 6300 6600 6300
+Text Label 6600 6300 2    50   ~ 0
+PWM1
+Wire Wire Line
+	7000 6100 6600 6100
+Text Label 6600 6100 2    50   ~ 0
+PWM0
+Wire Wire Line
+	7000 5300 6600 5300
+Text Label 6600 5300 2    50   ~ 0
+PWRON
+Wire Wire Line
+	2000 4800 2100 4800
+Text Label 2100 4800 0    70   ~ 0
+PWRON
+Wire Wire Line
+	9800 4700 10200 4700
+Text Label 10200 4700 0    50   ~ 0
+UART1-TX
+Wire Wire Line
+	9800 4900 10200 4900
+Text Label 10200 4900 0    50   ~ 0
+UART1-RX
+Wire Wire Line
+	9800 5100 10200 5100
+Text Label 10200 5100 0    50   ~ 0
+LRADC
+Wire Wire Line
+	9800 5300 10200 5300
+Text Label 10200 5300 0    50   ~ 0
+CSIPCK
+Wire Wire Line
+	2100 6300 2000 6300
+Text Label 2000 6300 2    30   ~ 0
+CSIPCK
+Wire Wire Line
+	9800 5500 10200 5500
+Text Label 10200 5500 0    50   ~ 0
+CSIMCLK
+Wire Wire Line
+	2100 6100 2000 6100
+Text Label 2000 6100 2    30   ~ 0
+CSIMCLK
+Wire Wire Line
+	9800 5700 10200 5700
+Text Label 10200 5700 0    50   ~ 0
+CSIHSYNC
+Wire Wire Line
+	2100 6400 2000 6400
+Text Label 2000 6400 2    30   ~ 0
+CSIHSYNC
+Wire Wire Line
+	9800 5900 10200 5900
+Text Label 10200 5900 0    50   ~ 0
+CSIVSYNC
+Wire Wire Line
+	2100 6500 2000 6500
+Text Label 2000 6500 2    30   ~ 0
+CSIVSYNC
+Wire Wire Line
+	9800 6100 10200 6100
+Text Label 10200 6100 0    50   ~ 0
+CSID0
+Wire Wire Line
+	9800 6300 10200 6300
+Text Label 10200 6300 0    50   ~ 0
+CSID1
+Wire Wire Line
+	2100 6000 2000 6000
+Text Label 2000 6000 2    30   ~ 0
+CSID1
+Wire Wire Line
+	9800 6500 10200 6500
+Text Label 10200 6500 0    50   ~ 0
+CSID2
+Wire Wire Line
+	2100 6200 2000 6200
+Text Label 2000 6200 2    30   ~ 0
+CSID2
+Wire Wire Line
+	9800 6700 10200 6700
+Text Label 10200 6700 0    50   ~ 0
+CSID3
+Wire Wire Line
+	9800 6900 10200 6900
+Text Label 10200 6900 0    50   ~ 0
+CSID4
+Wire Wire Line
+	9800 7100 10200 7100
+Text Label 10200 7100 0    50   ~ 0
+CSID5
+Wire Wire Line
+	9800 7300 10200 7300
+Text Label 10200 7300 0    50   ~ 0
+CSID6
+Wire Wire Line
+	9800 7500 10200 7500
+Text Label 10200 7500 0    50   ~ 0
+CSID7
+Wire Wire Line
+	9600 7700 9600 8100
+Text Label 9600 8100 3    50   ~ 0
+VMIC
+Wire Wire Line
+	9400 7700 9400 8100
+Text Label 9400 8100 3    50   ~ 0
+MICIN2
+Wire Wire Line
+	9000 7700 9000 8100
+Text Label 9000 8100 3    50   ~ 0
+AGND
+Wire Wire Line
+	8800 7700 8800 8100
+Text Label 8800 8100 3    50   ~ 0
+I2S+SPDIF
+Wire Wire Line
+	13600 5200 13500 5200
+Wire Wire Line
+	13500 4800 13500 5200
+Wire Wire Line
+	13500 5200 13400 5200
+Wire Wire Line
+	13500 4800 13600 4800
+Connection ~ 13500 5200
+Text Label 13400 5200 2    50   ~ 0
+I2S+SPDIF
+Wire Wire Line
+	8600 7700 8600 8100
+Text Label 8600 8100 3    50   ~ 0
+I2S-DO
+Wire Wire Line
+	8400 7700 8400 8100
+Text Label 8400 8100 3    50   ~ 0
+I2S-LRCK
+Wire Wire Line
+	8200 7700 8200 8100
+Text Label 8200 8100 3    50   ~ 0
+I2S-BCLK
+Wire Wire Line
+	8000 7700 8000 8100
+Text Label 8000 8100 3    50   ~ 0
+I2S-MCLK
+Wire Wire Line
+	7000 5900 6600 5900
+Text Label 6600 5900 2    50   ~ 0
+BAT
+Wire Wire Line
+	1800 2800 1600 2800
+Text Label 1600 2800 2    32   ~ 0
+BAT
+Wire Wire Line
+	7000 4700 6150 4700
+Wire Wire Line
+	6150 4700 6150 4550
+Text Label 7000 4700 0    10   ~ 0
+VDD
+Wire Wire Line
+	2100 6700 1700 6700
+Text Label 2100 6700 0    10   ~ 0
+VDD
+Wire Wire Line
+	1600 6800 1500 6800
+Text Label 1500 6800 2    30   ~ 0
+VDD
+Wire Wire Line
+	14300 4600 14300 4500
+Text Label 14300 4500 1    50   ~ 0
+VDD
+Wire Wire Line
+	14600 5200 14900 5200
+Wire Wire Line
+	14900 5200 14900 4800
+Wire Wire Line
+	14900 5200 14900 7400
+Wire Wire Line
+	14500 4800 14900 4800
+Connection ~ 14900 5200
+Text Label 14600 5200 0    10   ~ 0
+VDD
+Wire Wire Line
+	14000 4800 14100 4800
+Text Label 14000 4800 0    10   ~ 0
+VDD
+Wire Wire Line
+	9200 4300 9200 4000
+Text Label 9200 4000 1    50   ~ 0
+USB1_N
+Wire Wire Line
+	9400 4300 9400 4000
+Text Label 9400 4000 1    50   ~ 0
+USB1_P
+Wire Wire Line
+	7000 4900 6600 4900
+Text Label 6600 4900 2    50   ~ 0
+IPSOUT
+Wire Wire Line
+	6600 5100 7000 5100
+Text Label 6600 5100 2    50   ~ 0
+CHG-IN
+Wire Wire Line
+	7800 4300 7800 4000
+Text Label 7800 4000 1    50   ~ 0
+VUSB
+Wire Wire Line
+	2100 6800 2000 6800
+Wire Wire Line
+	14600 5400 15000 5400
+Text Label 15000 5400 0    50   ~ 0
+UP
+Wire Wire Line
+	2500 9300 2600 9300
+Text Label 2600 9300 0    50   ~ 0
+UP
+Wire Wire Line
+	2500 10300 2600 10300
+Text Label 2600 10300 0    50   ~ 0
+DOWN
+Wire Wire Line
+	14600 5700 15000 5700
+Text Label 15000 5700 0    50   ~ 0
+DOWN
+Wire Wire Line
+	2000 9800 2100 9800
+Text Label 2100 9800 0    50   ~ 0
+LEFT
+Wire Wire Line
+	14600 5500 15000 5500
+Text Label 15000 5500 0    50   ~ 0
+LEFT
+Wire Wire Line
+	3100 9800 3200 9800
+Text Label 3200 9800 0    50   ~ 0
+RIGHT
+Wire Wire Line
+	14600 5600 15000 5600
+Text Label 15000 5600 0    50   ~ 0
+RIGHT
+Wire Wire Line
+	14600 5800 15000 5800
+Text Label 15000 5800 0    50   ~ 0
+ACTION1
+Wire Wire Line
+	14900 10300 15000 10300
+Text Label 15000 10300 0    50   ~ 0
+ACTION1
+Wire Wire Line
+	14600 5900 15000 5900
+Text Label 15000 5900 0    50   ~ 0
+ACTION2
+Wire Wire Line
+	14400 9800 14500 9800
+Text Label 14500 9800 0    50   ~ 0
+ACTION2
+Wire Wire Line
+	14900 9400 15000 9400
+Text Label 15000 9400 0    50   ~ 0
+ACTION3
+Wire Wire Line
+	14600 6100 15000 6100
+Text Label 15000 6100 0    50   ~ 0
+ACTION3
+Wire Wire Line
+	15500 9800 15600 9800
+Text Label 15600 9800 0    50   ~ 0
+ACTION4
+Wire Wire Line
+	14600 6000 15000 6000
+Text Label 15000 6000 0    50   ~ 0
+ACTION4
+Wire Wire Line
+	7400 11500 7500 11500
+Text Label 7500 11500 0    50   ~ 0
+START
+Wire Wire Line
+	14600 6400 15000 6400
+Text Label 15000 6400 0    50   ~ 0
+START
+Wire Wire Line
+	8800 11500 8700 11500
+Text Label 8700 11500 2    50   ~ 0
+SELECT
+Wire Wire Line
+	14600 6300 15000 6300
+Text Label 15000 6300 0    50   ~ 0
+SELECT
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GR8_MODULE_V0.1 CHIP_PRO1
+U 1 0 DC4D73AF
+P 8400 6100
+F 0 "CHIP_PRO1" H 6500 8000 42  0000 L BNN
+F 1 "CHIP_PRO_V0.2" H 6500 7900 42  0000 L BNN
+F 2 "ChipPROHandheldv0.5:GR8_MODULE_V0.2" H 8400 6100 50  0001 C CNN
+F 3 "" H 8400 6100 50  0001 C CNN
+	1    8400 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:VDD #U$029
+U 1 0 9452B865
+P 6150 4450
+F 0 "#U$029" H 6150 4450 50  0001 C CNN
+F 1 "VDD" H 6090 4490 42  0000 L BNN
+F 2 "" H 6150 4450 50  0001 C CNN
+F 3 "" H 6150 4450 50  0001 C CNN
+	1    6150 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:SJ-43514-SMT-TR CN1
+U 1 0 496D2C97
+P 15300 3700
+F 0 "CN1" H 15300 4400 42  0000 L BNN
+F 1 "SJ-43514-SMT-TR" H 15300 4300 42  0000 L BNN
+F 2 "ChipPROHandheldv0.5:SJ-43514-SMT-TR" H 15300 3700 50  0001 C CNN
+F 3 "" H 15300 3700 50  0001 C CNN
+	1    15300 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:JST_2PIN-SMT-RA BAT1
+U 1 0 5CD2E139
+P 1900 2800
+F 0 "BAT1" H 1650 3025 59  0000 L BNN
+F 1 "JST_2PIN-SMT-RA" H 1650 2600 59  0000 L BNN
+F 2 "ChipPROHandheldv0.5:JST-PH-2-SMT-RA" H 1900 2800 50  0001 C CNN
+F 3 "" H 1900 2800 50  0001 C CNN
+	1    1900 2800
+	1    0    0    1   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$04
+U 1 0 649D799B
+P 1600 3200
+F 0 "#U$04" H 1600 3200 50  0001 C CNN
+F 1 "GND" H 1740 3120 59  0000 R TNN
+F 2 "" H 1600 3200 50  0001 C CNN
+F 3 "" H 1600 3200 50  0001 C CNN
+	1    1600 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$010
+U 1 0 2B263A79
+P 1400 10300
+F 0 "#U$010" H 1400 10300 50  0001 C CNN
+F 1 "GND" H 1540 10220 59  0000 R TNN
+F 2 "" H 1400 10300 50  0001 C CNN
+F 3 "" H 1400 10300 50  0001 C CNN
+	1    1400 10300
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$011
+U 1 0 ABBF7E6D
+P 1300 9800
+F 0 "#U$011" H 1300 9800 50  0001 C CNN
+F 1 "GND" H 1440 9720 59  0000 R TNN
+F 2 "" H 1300 9800 50  0001 C CNN
+F 3 "" H 1300 9800 50  0001 C CNN
+	1    1300 9800
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$012
+U 1 0 FCFA34DC
+P 1400 9300
+F 0 "#U$012" H 1400 9300 50  0001 C CNN
+F 1 "GND" H 1540 9220 59  0000 R TNN
+F 2 "" H 1400 9300 50  0001 C CNN
+F 3 "" H 1400 9300 50  0001 C CNN
+	1    1400 9300
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$014
+U 1 0 0B5D2212
+P 13800 10300
+F 0 "#U$014" H 13800 10300 50  0001 C CNN
+F 1 "GND" H 13940 10220 59  0000 R TNN
+F 2 "" H 13800 10300 50  0001 C CNN
+F 3 "" H 13800 10300 50  0001 C CNN
+	1    13800 10300
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$015
+U 1 0 0C3EC839
+P 13700 9800
+F 0 "#U$015" H 13700 9800 50  0001 C CNN
+F 1 "GND" H 13840 9720 59  0000 R TNN
+F 2 "" H 13700 9800 50  0001 C CNN
+F 3 "" H 13700 9800 50  0001 C CNN
+	1    13700 9800
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$016
+U 1 0 44B01CF5
+P 13800 9400
+F 0 "#U$016" H 13800 9400 50  0001 C CNN
+F 1 "GND" H 13940 9320 59  0000 R TNN
+F 2 "" H 13800 9400 50  0001 C CNN
+F 3 "" H 13800 9400 50  0001 C CNN
+	1    13800 9400
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$06
+U 1 0 CE08125E
+P 15000 10000
+F 0 "#U$06" H 15000 10000 50  0001 C CNN
+F 1 "GND" H 15140 9920 59  0000 R TNN
+F 2 "" H 15000 10000 50  0001 C CNN
+F 3 "" H 15000 10000 50  0001 C CNN
+	1    15000 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:FRAME-A3 #FRAME1
+U 1 0 CC96BE83
+P 900 12300
+F 0 "#FRAME1" H 900 12300 50  0001 C CNN
+F 1 "FRAME-A3" H 900 12300 50  0001 C CNN
+F 2 "" H 900 12300 50  0001 C CNN
+F 3 "" H 900 12300 50  0001 C CNN
+	1    900  12300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:EVQP0_Q2 UP1
+U 1 0 37E6A69E
+P 2300 9300
+F 0 "UP1" V 2050 9200 59  0000 L BNN
+F 1 "EVQP0_Q2" V 2500 9200 59  0000 L BNN
+F 2 "ChipPROHandheldv0.5:EVQP0_Q2" H 2300 9300 50  0001 C CNN
+F 3 "" H 2300 9300 50  0001 C CNN
+	1    2300 9300
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:EVQP0_Q2 LEFT1
+U 1 0 9090CA12
+P 1800 9800
+F 0 "LEFT1" V 1550 9700 59  0000 L BNN
+F 1 "EVQP0_Q2" V 2000 9700 59  0000 L BNN
+F 2 "ChipPROHandheldv0.5:EVQP0_Q2" H 1800 9800 50  0001 C CNN
+F 3 "" H 1800 9800 50  0001 C CNN
+	1    1800 9800
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:EVQP0_Q2 DOWN1
+U 1 0 EF189159
+P 2300 10300
+F 0 "DOWN1" V 2050 10200 59  0000 L BNN
+F 1 "EVQP0_Q2" V 2500 10200 59  0000 L BNN
+F 2 "ChipPROHandheldv0.5:EVQP0_Q2" H 2300 10300 50  0001 C CNN
+F 3 "" H 2300 10300 50  0001 C CNN
+	1    2300 10300
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:EVQP0_Q2 RIGHT1
+U 1 0 DBB8868D
+P 2900 9800
+F 0 "RIGHT1" V 2650 9700 59  0000 L BNN
+F 1 "EVQP0_Q2" V 3100 9700 59  0000 L BNN
+F 2 "ChipPROHandheldv0.5:EVQP0_Q2" H 2900 9800 50  0001 C CNN
+F 3 "" H 2900 9800 50  0001 C CNN
+	1    2900 9800
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$01
+U 1 0 89E33A62
+P 2600 10000
+F 0 "#U$01" H 2600 10000 50  0001 C CNN
+F 1 "GND" H 2740 9920 59  0000 R TNN
+F 2 "" H 2600 10000 50  0001 C CNN
+F 3 "" H 2600 10000 50  0001 C CNN
+	1    2600 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:EVQP0_Q2 BUTTON3
+U 1 0 77976CE0
+P 14700 9400
+F 0 "BUTTON3" V 14450 9300 59  0000 L BNN
+F 1 "EVQP0_Q2" V 14900 9300 59  0000 L BNN
+F 2 "ChipPROHandheldv0.5:EVQP0_Q2" H 14700 9400 50  0001 C CNN
+F 3 "" H 14700 9400 50  0001 C CNN
+	1    14700 9400
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:EVQP0_Q2 BUTTON2
+U 1 0 7C0599B5
+P 14200 9800
+F 0 "BUTTON2" V 13950 9700 59  0000 L BNN
+F 1 "EVQP0_Q2" V 14400 9700 59  0000 L BNN
+F 2 "ChipPROHandheldv0.5:EVQP0_Q2" H 14200 9800 50  0001 C CNN
+F 3 "" H 14200 9800 50  0001 C CNN
+	1    14200 9800
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:EVQP0_Q2 BUTTON1
+U 1 0 78D00BD4
+P 14700 10300
+F 0 "BUTTON1" V 14450 10200 59  0000 L BNN
+F 1 "EVQP0_Q2" V 14900 10200 59  0000 L BNN
+F 2 "ChipPROHandheldv0.5:EVQP0_Q2" H 14700 10300 50  0001 C CNN
+F 3 "" H 14700 10300 50  0001 C CNN
+	1    14700 10300
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:EVQP0_Q2 BUTTON4
+U 1 0 3FBAC398
+P 15300 9800
+F 0 "BUTTON4" V 15050 9700 59  0000 L BNN
+F 1 "EVQP0_Q2" V 15500 9700 59  0000 L BNN
+F 2 "ChipPROHandheldv0.5:EVQP0_Q2" H 15300 9800 50  0001 C CNN
+F 3 "" H 15300 9800 50  0001 C CNN
+	1    15300 9800
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:EVQP0_Q2 START1
+U 1 0 088F0E4D
+P 9000 11500
+F 0 "START1" V 8750 11400 59  0000 L BNN
+F 1 "EVQP0_Q2" V 9200 11400 59  0000 L BNN
+F 2 "ChipPROHandheldv0.5:EVQP0_Q2" H 9000 11500 50  0001 C CNN
+F 3 "" H 9000 11500 50  0001 C CNN
+	1    9000 11500
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:EVQP0_Q2 SELECT1
+U 1 0 FC06BFCF
+P 7200 11500
+F 0 "SELECT1" V 6950 11400 59  0000 L BNN
+F 1 "EVQP0_Q2" V 7400 11400 59  0000 L BNN
+F 2 "ChipPROHandheldv0.5:EVQP0_Q2" H 7200 11500 50  0001 C CNN
+F 3 "" H 7200 11500 50  0001 C CNN
+	1    7200 11500
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$02
+U 1 0 87B7DF34
+P 9400 11500
+F 0 "#U$02" H 9400 11500 50  0001 C CNN
+F 1 "GND" H 9540 11420 59  0000 R TNN
+F 2 "" H 9400 11500 50  0001 C CNN
+F 3 "" H 9400 11500 50  0001 C CNN
+	1    9400 11500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$03
+U 1 0 6E1B97F5
+P 6800 11500
+F 0 "#U$03" H 6800 11500 50  0001 C CNN
+F 1 "GND" H 6940 11420 59  0000 R TNN
+F 2 "" H 6800 11500 50  0001 C CNN
+F 3 "" H 6800 11500 50  0001 C CNN
+	1    6800 11500
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:SWITCH_PUSHBUTTONC&K_KSS PWRBTN1
+U 1 0 3C21F28C
+P 1800 4800
+F 0 "PWRBTN1" H 1700 4940 42  0000 L BNN
+F 1 "Button" H 1700 4710 42  0000 L BNN
+F 2 "ChipPROHandheldv0.5:BTN_CK_KSS" H 1800 4800 50  0001 C CNN
+F 3 "" H 1800 4800 50  0001 C CNN
+	1    1800 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$05
+U 1 0 BCE09641
+P 1400 4800
+F 0 "#U$05" H 1400 4800 50  0001 C CNN
+F 1 "GND" H 1540 4720 59  0000 R TNN
+F 2 "" H 1400 4800 50  0001 C CNN
+F 3 "" H 1400 4800 50  0001 C CNN
+	1    1400 4800
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:ILI9341-2.2 U$7
+U 1 0 63C62AE7
+P 2500 6600
+F 0 "U$7" H 2500 6600 50  0001 C CNN
+F 1 "ILI9341-2.2" H 2500 6600 50  0001 C CNN
+F 2 "ChipPROHandheldv0.5:ILI9341" H 2500 6600 50  0001 C CNN
+F 3 "" H 2500 6600 50  0001 C CNN
+	1    2500 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$08
+U 1 0 59F585D1
+P 1900 7100
+F 0 "#U$08" H 1900 7100 50  0001 C CNN
+F 1 "GND" H 2040 7020 59  0000 R TNN
+F 2 "" H 1900 7100 50  0001 C CNN
+F 3 "" H 1900 7100 50  0001 C CNN
+	1    1900 7100
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$09
+U 1 0 9E0009A5
+P 1900 6600
+F 0 "#U$09" H 1900 6600 50  0001 C CNN
+F 1 "GND" H 2040 6520 59  0000 R TNN
+F 2 "" H 1900 6600 50  0001 C CNN
+F 3 "" H 1900 6600 50  0001 C CNN
+	1    1900 6600
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$013
+U 1 0 33430DC8
+P 1900 5900
+F 0 "#U$013" H 1900 5900 50  0001 C CNN
+F 1 "GND" H 2040 5820 59  0000 R TNN
+F 2 "" H 1900 5900 50  0001 C CNN
+F 3 "" H 1900 5900 50  0001 C CNN
+	1    1900 5900
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:VDD #U$017
+U 1 0 29AF302F
+P 1600 6700
+F 0 "#U$017" H 1600 6700 50  0001 C CNN
+F 1 "VDD" H 1540 6740 42  0000 L BNN
+F 2 "" H 1600 6700 50  0001 C CNN
+F 3 "" H 1600 6700 50  0001 C CNN
+	1    1600 6700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:JUMPER-PAD-3-2OF3_NC_BY_TRACE_LARGE JP6
+U 1 0 A21E5090
+P 14250 2800
+F 0 "JP6" H 14350 2815 59  0000 L BNN
+F 1 "JUMPER-PAD-3-2OF3_NC_BY_TRACE_LARGE" H 14350 2725 59  0000 L BNN
+F 2 "ChipPROHandheldv0.5:PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_LARGE" H 14250 2800 50  0001 C CNN
+F 3 "" H 14250 2800 50  0001 C CNN
+	1    14250 2800
+	0    1    -1   0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$018
+U 1 0 5210CFB4
+P 13950 3000
+F 0 "#U$018" H 13950 3000 50  0001 C CNN
+F 1 "GND" H 14090 2920 59  0000 R TNN
+F 2 "" H 13950 3000 50  0001 C CNN
+F 3 "" H 13950 3000 50  0001 C CNN
+	1    13950 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:R-US_R0805 R1
+U 1 0 4798B578
+P 1800 6800
+F 0 "R1" H 1650 6859 59  0000 L BNN
+F 1 "100OHM" H 1650 6670 59  0000 L BNN
+F 2 "ChipPROHandheldv0.5:R0805" H 1800 6800 50  0001 C CNN
+F 3 "" H 1800 6800 50  0001 C CNN
+	1    1800 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:PCA9555PW IC1
+U 1 0 22F7723E
+P 14100 6200
+F 0 "IC1" H 13700 7350 59  0000 L BNN
+F 1 "PCA9555PW" H 13700 5000 59  0000 L BNN
+F 2 "ChipPROHandheldv0.5:TSSOP24" H 14100 6200 50  0001 C CNN
+F 3 "" H 14100 6200 50  0001 C CNN
+	1    14100 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$019
+U 1 0 1DEA58DA
+P 13500 6100
+F 0 "#U$019" H 13500 6100 50  0001 C CNN
+F 1 "GND" H 13640 6020 59  0000 R TNN
+F 2 "" H 13500 6100 50  0001 C CNN
+F 3 "" H 13500 6100 50  0001 C CNN
+	1    13500 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:JUMPER-SMT_3_2-NC_TRACE_SILK JP1
+U 1 0 0B60073D
+P 14300 4800
+F 0 "JP1" H 14400 4815 70  0000 L BNN
+F 1 "JUMPER-SMT_3_2-NC_TRACE_SILK" H 14400 4785 70  0000 L TNN
+F 2 "ChipPROHandheldv0.5:SMT-JUMPER_3_2-NC_TRACE_SILK" H 14300 4800 50  0001 C CNN
+F 3 "" H 14300 4800 50  0001 C CNN
+	1    14300 4800
+	0    1    1    0   
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:C-USC0805 C1
+U 1 0 0B8DD469
+P 14900 7500
+F 0 "C1" H 14940 7525 59  0000 L BNN
+F 1 "100nf" H 14940 7335 59  0000 L BNN
+F 2 "ChipPROHandheldv0.5:C0805" H 14900 7500 50  0001 C CNN
+F 3 "" H 14900 7500 50  0001 C CNN
+	1    14900 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:GND #U$020
+U 1 0 A9A82E2E
+P 14700 7900
+F 0 "#U$020" H 14700 7900 50  0001 C CNN
+F 1 "GND" H 14840 7820 59  0000 R TNN
+F 2 "" H 14700 7900 50  0001 C CNN
+F 3 "" H 14700 7900 50  0001 C CNN
+	1    14700 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ChipPROHandheldv0.5-eagle-import:R-US_R0805 R2
+U 1 0 8EFFCFBB
+P 13800 4800
+F 0 "R2" H 13650 4859 59  0000 L BNN
+F 1 "10k" H 13650 4670 59  0000 L BNN
+F 2 "ChipPROHandheldv0.5:R0805" H 13800 4800 50  0001 C CNN
+F 3 "" H 13800 4800 50  0001 C CNN
+	1    13800 4800
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	13500 2200 13500 3800
+Wire Notes Line
+	13500 3800 16000 3800
+Text Notes 13600 2600 0    200  ~ 0
+Audio
+Wire Notes Line
+	16000 8700 13500 8700
+Wire Notes Line
+	13500 8700 13500 10600
+Wire Notes Line
+	13500 10600 16000 10600
+Text Notes 13700 9000 0    170  ~ 0
+Action Buttons
+Wire Notes Line
+	1100 8800 3600 8800
+Text Notes 1200 9100 0    170  ~ 0
+D-Pad
+Wire Notes Line
+	2300 2200 2300 3500
+Wire Notes Line
+	2300 3500 1100 3500
+Text Notes 1200 2500 0    170  ~ 0
+Battery
+Wire Notes Line
+	3600 8800 3600 10600
+Wire Notes Line
+	3600 10600 1100 10600
+Wire Notes Line
+	6300 12100 6300 11100
+Wire Notes Line
+	6300 11100 9800 11100
+Wire Notes Line
+	9800 11100 9800 12100
+Text Notes 6900 12000 0    200  ~ 0
+Start/Select Buttons
+Wire Notes Line
+	1100 4200 2600 4200
+Wire Notes Line
+	2600 4200 2600 5000
+Wire Notes Line
+	2600 5000 1100 5000
+Text Notes 1100 4500 0    200  ~ 0
+Power Button
+Wire Notes Line
+	1100 5400 3300 5400
+Wire Notes Line
+	3300 5400 3300 7800
+Wire Notes Line
+	3300 7800 1100 7800
+Text Notes 1200 5700 0    200  ~ 0
+ILI9341 2.8" LCD
+Wire Notes Line
+	16000 8200 12200 8200
+Wire Notes Line
+	12200 8200 12200 4000
+Wire Notes Line
+	12200 4000 16000 4000
+Text Notes 13100 4300 0    170  ~ 0
+GPIO Expander
+Text Notes 12300 4600 0    59   ~ 0
+TWI1-SCK and TWI1-SDA are intentionally\nswapped. CHIP Pro eagle footprint is wrong.
+Text GLabel 7200 4300 0    10   BiDi ~ 0
+GND
+Text GLabel 9000 4300 0    10   BiDi ~ 0
+GND
+Text GLabel 9600 4300 0    10   BiDi ~ 0
+GND
+$EndSCHEMATC
