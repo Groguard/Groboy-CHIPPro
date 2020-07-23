@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name ChipPROHandheld-eagle-import)(type Legacy)(uri ${KIPRJMOD}/ChipPROHandheld-eagle-import.lib)(options "")(descr ""))
-)
